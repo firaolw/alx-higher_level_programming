@@ -1,1 +1,1 @@
-## ALX 0x0E-SQL_more_queries PROJECT
+## ALX 0x0E-SQL_more_queries PROJECT TASKS
